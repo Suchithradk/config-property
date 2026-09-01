@@ -9,5 +9,3 @@ management:
     web:
       exposure:
         include: "*"
-
-message: "this is testiing msg"
